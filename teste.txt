@@ -1,0 +1,1 @@
+Este texto foi feito para ser criptografado e descriptografado, teste este código, quantas vezes quiser.
